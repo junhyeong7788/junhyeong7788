@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Junhyeong
-#### I am Student, majoring Double E.
-Skills: Flutter / Python / Pytorch
+# Hi there 👋, my name is Junhyeong
+### I am Student, majoring Double E.
+### Skills: Flutter / Python / Pytorch
 
 ---
 - 🔭 I’m currently working on this page. 
