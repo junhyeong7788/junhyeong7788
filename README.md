@@ -1,11 +1,11 @@
 # Hi there 👋, my name is Junhyeong
 ### I am Student, majoring Double E.
-### Skills: Flutter / Python / Pytorch
+### Skills: Python / Pytorch
 
 ---
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Flutter. 
-- 📫 How to reach me: esteban52@icloud.com 
+- 🌱 I’m currently learning MLOps
+- - 📫 How to reach me: esteban52@icloud.com 
 - 😄 Pronouns: He/Him 
 ---
 
