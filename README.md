@@ -4,7 +4,7 @@
 - 💌 E-mail : ryker7788@gmail.com
 
 ---
-Activity
+## Activity
 - [23.03 - 23.06] 공공데이터와 AI 활용 실전 문제 해결 프로그램 (경진대회) - 수료, 장려상 수상
 - [23.11.27 - 23.12.07] ChatGPT 활용하기 A to Z (울산 산업 진흥원/AI 배울랑교) - 수료
   - ChatGPT 프롬프트 기초, API사용 Streamlit Web 페이지 개발 및 배포 프로젝트
