@@ -1,7 +1,9 @@
 ## README
 - 🎓 Education   
-  - 2023 ~ Electronic and Electrical Engineering, University of Ulsan
-- 💌 E-mail : ryker7788@gmail.com
+    - **2019 ~ 2023** B.S. in AI Software Engineering, University of Daegu *(Transferred)*
+    - **2023 ~ 2025** B.S. in Electrical and Electronic Engineering, University of Ulsan *(Graduated)*
+    - **2025 ~** M.S. in Industrial Engineering, University of Ulsan 
+- 💌 E-mail : junhpark7777@gmail.com
 
 ---
 
