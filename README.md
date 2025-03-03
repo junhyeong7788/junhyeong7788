@@ -1,8 +1,8 @@
 ## README
 - 🎓 Education   
-    - **2019 ~ 2023** - B.S. in AI Software Engineering, University of Daegu *(Transferred)*
-    - **2023 ~ 2025** - B.S. in Electrical and Electronic Engineering, University of Ulsan *(Graduated)*
-    - **2025~** - M.S. in Industrial Engineering, University of Ulsan 
+    - AI Software Engineering, Transferred from University of Daegu (**2019 – 2023**)
+    - B.S. in Electrical and Electronic Engineering, University of Ulsan (**Graduated, 2023 – 2025**)
+    - M.S. in Industrial & Management Engineering, University of Ulsan (**2025 – Present**)
 - 💌 E-mail : junhpark7777@gmail.com
 
 ---
